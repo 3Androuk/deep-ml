@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:36:44.606Z",
+  "generated_at": "2026-10-20T20:03:54.428Z",
   "items": {
     "problem:192": {
       "kind": "problem",
@@ -50,6 +50,67 @@
       "path": "problems/0029-random-shuffle-of-dataset",
       "first_solved_at": "2026-10-20T19:36:43.345Z",
       "last_pushed_at": "2026-10-20T19:36:43.345Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-10-19T19:14:06.299Z",
+      "last_pushed_at": "2026-10-19T19:14:06.299Z",
+      "language": "python",
+      "lines": 6
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-19T19:27:15.226Z",
+      "last_pushed_at": "2026-10-19T19:27:15.226Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-10-19T19:28:39.633Z",
+      "last_pushed_at": "2026-10-19T19:28:39.633Z"
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-19T20:09:37.914Z",
+      "last_pushed_at": "2026-10-19T20:09:37.914Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-10-19T20:48:32.250Z",
+      "last_pushed_at": "2026-10-19T20:48:32.250Z",
       "language": "python",
       "lines": 14
     }
