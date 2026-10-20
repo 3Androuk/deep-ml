@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:03:54.428Z",
+  "generated_at": "2026-10-20T20:03:57.323Z",
   "items": {
     "problem:192": {
       "kind": "problem",
@@ -75,7 +75,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-19T19:27:15.226Z",
-      "last_pushed_at": "2026-10-19T19:27:15.226Z"
+      "last_pushed_at": "2026-10-20T20:03:57.322Z"
     },
     "math:9": {
       "kind": "math",
@@ -86,7 +86,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-10-19T19:28:39.633Z",
-      "last_pushed_at": "2026-10-19T19:28:39.633Z"
+      "last_pushed_at": "2026-10-20T20:03:57.322Z"
     },
     "problem:1": {
       "kind": "problem",
