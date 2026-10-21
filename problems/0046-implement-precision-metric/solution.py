@@ -9,6 +9,6 @@ def precision(y_true, y_pred):
 	if dn == 0:
 		precision = 0
 	else:
-		precision = tp / (dn)
+		precision = tp / dn
 
 	return precision
