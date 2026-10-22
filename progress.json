@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:20:39.257Z",
+  "generated_at": "2026-10-22T14:25:04.038Z",
   "items": {
     "problem:192": {
       "kind": "problem",
@@ -279,9 +279,9 @@
       "url": "https://www.deep-ml.com/problems/75",
       "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
       "first_solved_at": "2026-10-22T14:20:38.347Z",
-      "last_pushed_at": "2026-10-22T14:20:38.347Z",
+      "last_pushed_at": "2026-10-22T14:25:03.142Z",
       "language": "python",
-      "lines": 17
+      "lines": 19
     }
   }
 }
