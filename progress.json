@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:46:31.909Z",
+  "generated_at": "2026-10-23T16:20:05.844Z",
   "items": {
     "problem:192": {
       "kind": "problem",
@@ -347,6 +347,19 @@
       "last_pushed_at": "2026-10-23T15:46:30.773Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:135": {
+      "kind": "problem",
+      "id": "135",
+      "title": "Implement Early Stopping Based on Validation Loss",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/135",
+      "path": "problems/0135-implement-early-stopping-based-on-validation-loss",
+      "first_solved_at": "2026-10-23T16:20:04.811Z",
+      "last_pushed_at": "2026-10-23T16:20:04.811Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
