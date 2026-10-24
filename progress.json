@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:24:30.521Z",
+  "generated_at": "2026-10-24T22:54:26.277Z",
   "items": {
     "problem:192": {
       "kind": "problem",
@@ -373,6 +373,19 @@
       "last_pushed_at": "2026-10-23T16:24:29.828Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:153": {
+      "kind": "problem",
+      "id": "153",
+      "title": "StepLR Learning Rate Scheduler",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/153",
+      "path": "problems/0153-steplr-learning-rate-scheduler",
+      "first_solved_at": "2026-10-24T22:54:25.577Z",
+      "last_pushed_at": "2026-10-24T22:54:25.577Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
