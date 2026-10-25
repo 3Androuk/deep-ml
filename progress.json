@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:12:19.572Z",
+  "generated_at": "2026-10-25T20:33:03.406Z",
   "items": {
     "problem:192": {
       "kind": "problem",
@@ -438,6 +438,19 @@
       "last_pushed_at": "2026-10-25T11:12:18.861Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:281": {
+      "kind": "problem",
+      "id": "281",
+      "title": "Implement Polynomial Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/281",
+      "path": "problems/0281-implement-polynomial-kernel-function",
+      "first_solved_at": "2026-10-25T20:33:02.608Z",
+      "last_pushed_at": "2026-10-25T20:33:02.608Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
