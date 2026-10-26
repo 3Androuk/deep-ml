@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 33 problems · 0 labs · 2 math
+**36** solved · 34 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-10-22 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-25 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-10-22 | [solution](problems/0086-detect-overfitting-or-underfitting) |
+| [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-10-26 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
 | [ExponentialLR Learning Rate Scheduler](https://www.deep-ml.com/problems/154) | easy | 2026-10-24 | [solution](problems/0154-exponentiallr-learning-rate-scheduler) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-20 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-10-22 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
