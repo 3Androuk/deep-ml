@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 37 problems · 0 labs · 2 math
+**40** solved · 38 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-10-25 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-19 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-26 | [solution](problems/0017-k-means-clustering) |
+| [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-26 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 
 ## Math
 
