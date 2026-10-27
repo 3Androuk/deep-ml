@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 40 problems · 0 labs · 2 math
+**43** solved · 41 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ReLU with JAX Arrays](https://www.deep-ml.com/problems/1323) | easy | 2026-10-27 | [solution](problems/1323-relu-with-jax-arrays) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-10-23 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-10-24 | [solution](problems/0153-steplr-learning-rate-scheduler) |
+| [Your First Gradient with jax.grad](https://www.deep-ml.com/problems/1325) | easy | 2026-10-27 | [solution](problems/1325-your-first-gradient-with-jax-grad) |
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-10-24 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-10-25 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-19 | [solution](problems/0192-implement-the-huber-loss-function) |
