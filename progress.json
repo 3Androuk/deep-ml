@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T08:59:35.990Z",
+  "generated_at": "2026-10-27T09:06:16.382Z",
   "items": {
     "problem:192": {
       "kind": "problem",
@@ -529,6 +529,19 @@
       "last_pushed_at": "2026-10-27T08:59:35.269Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:1324": {
+      "kind": "problem",
+      "id": "1324",
+      "title": "Immutable Arrays: Functional Updates with .at",
+      "difficulty": "easy",
+      "category": "Jax",
+      "url": "https://www.deep-ml.com/problems/1324",
+      "path": "problems/1324-immutable-arrays-functional-updates-with-at",
+      "first_solved_at": "2026-10-27T09:06:15.657Z",
+      "last_pushed_at": "2026-10-27T09:06:15.657Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
