@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 45 problems · 0 labs · 2 math
+**48** solved · 46 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-20 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-10-22 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2026-10-26 | [solution](problems/0188-gradient-checkpointing) |
+| [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-10-31 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Immutable Arrays: Functional Updates with .at](https://www.deep-ml.com/problems/1324) | easy | 2026-10-27 | [solution](problems/1324-immutable-arrays-functional-updates-with-at) |
 | [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-10-23 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-10-21 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
