@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**48** solved · 46 problems · 0 labs · 2 math
+**49** solved · 47 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-19 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-26 | [solution](problems/0017-k-means-clustering) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-26 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-10-31 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Multi-Parameter Gradients with argnums](https://www.deep-ml.com/problems/1326) | medium | 2026-10-27 | [solution](problems/1326-multi-parameter-gradients-with-argnums) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-10-27 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Vectorizing with jax.vmap](https://www.deep-ml.com/problems/1328) | medium | 2026-10-27 | [solution](problems/1328-vectorizing-with-jax-vmap) |
